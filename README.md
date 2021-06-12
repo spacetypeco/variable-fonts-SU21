@@ -44,6 +44,7 @@ Techniques covered in this course will include time and interaction-based CSS ma
 
 ### Inspecting Variable Fonts:
 - https://wakamaifondue.com/
+- https://www.axis-praxis.org/samsa/
 - Firefox Font Inspector
 
 ### Finding (free) variable fonts:
